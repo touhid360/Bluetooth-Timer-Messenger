@@ -1,0 +1,16 @@
+# ninja log v5
+5	2732	0	src/main.o	acf477552aee602c
+14	903	0	src/user_callbacks.o	69756fb2e484d385
+904	1370	0	babu	28d7ab6589a8aa66
+7	720	0	src/user_callbacks.o	69756fb2e484d385
+721	1171	0	babu	28d7ab6589a8aa66
+5	797	0	src/user_callbacks.o	69756fb2e484d385
+797	1257	0	babu	28d7ab6589a8aa66
+5	724	0	src/user_callbacks.o	69756fb2e484d385
+725	1242	0	babu	28d7ab6589a8aa66
+5	971	0	src/user_callbacks.o	69756fb2e484d385
+972	1650	0	babu	28d7ab6589a8aa66
+7	976	0	src/user_callbacks.o	69756fb2e484d385
+977	1533	0	babu	28d7ab6589a8aa66
+0	122	0	clean_sa	7c1b588e12323ad2
+122	148	0	clean	d59b6dac04fa9b5d
